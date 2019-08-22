@@ -58,4 +58,7 @@
 
   Hw: git reset soft 
 
+  git clean -fd .
+
+  
   '''
