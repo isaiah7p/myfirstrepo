@@ -53,4 +53,9 @@
   551  git log 
   552  clear 
   553  history
+
+  git reset hard 
+
+  Hw: git reset soft 
+
   '''
