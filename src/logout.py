@@ -1,1 +1,2 @@
 # test logout
+test
